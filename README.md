@@ -168,18 +168,6 @@ Through these projects, I gained hands-on experience in:
 
 ---
 
-## 👨‍💻 Author
-
-**Shaik Sahil**
-
-Data Analytics Intern
-
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-profile
-
----
-
 ## 📜 License
 
 This repository is intended for educational and internship purposes.
